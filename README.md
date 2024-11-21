@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=His+name+is+RAFANAMBINANTSOA;Maminirina+Karim.;I'm+a+passionate+developer;from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=His+name+is+Elyah;Frisco.;I'm+a+passionate+developer;from+Madagascar 🇲🇬." alt="Typing SVG" /></a>
 </div>
 
 ### My involvement 😎😎😎 :
@@ -11,12 +11,14 @@
 ---
 
 ### 🛰️ About Me :
-  <div>I am a web Developer from Madagascar.</div>
-  <ul>
-    <li>🔭 I'm </li>
-    <li>🌱 .</li>
-    <li></li>
-  </ul>
+<div>I am a web developer from Madagascar with a passion for creating efficient and scalable digital solutions.</div>
+<ul>
+  <li>🔭 I'm currently working on innovative SaaS projects with UN-IT, focusing on web and mobile applications.</li>
+  <li>🌱 I’m continuously learning and exploring cutting-edge technologies like AI, cloud computing, and Big Data to enhance my skills.</li>
+  <li>💼 With over 3 years of experience, I specialize in full-stack development using Laravel, React, Vue.js, and more.</li>
+  <li>🌍 Open to collaborations on remote projects, especially in digital transformation and custom software solutions.</li>
+</ul>
+
 
 ---
 
@@ -29,11 +31,8 @@
 ---
 ### 📫 How to reach me :
 <div>
-  <a href="https://www.linkedin.com/in/safidy-mariel-raherinotoavina-659612262/">
+  <a href="https://mg.linkedin.com/in/elyah-frisco-0661ba205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.codewars.com/users/ramasama/badges/large">
-     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <a href="">
      <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
