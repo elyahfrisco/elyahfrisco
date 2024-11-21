@@ -34,7 +34,7 @@
   <a href="https://mg.linkedin.com/in/elyah-frisco-0661ba205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://elyahfrisco.com/">
      <img src="https://img.shields.io/badge/Porfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Porfolio Badge"/>
   </a>
 </div>
